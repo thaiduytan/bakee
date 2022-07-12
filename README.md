@@ -1,0 +1,1 @@
+# bakee no using responsive
